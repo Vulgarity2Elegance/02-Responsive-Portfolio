@@ -15,43 +15,39 @@
                 font-family: serif;
                 background-color: #e8e8e8;
             }
-            header {
-                background-color: #59aaa5;
-                color: #fefffe;
-            }
-            a {
-                color: #fefffe;
-            }
         </style>
     </head>
 
     <body>
-        <div class="container">
-            <!-- Navigation Bar-->
-            <header class="row">
-                <div class="col-12 col-sm-5">
+        <nav class="navbar navbar-light bg-light">
+            <div class="col-12 col-sm-5">
+                <div class="d-flex justify-content-center">
                     <h1 class="text-center float-sm-left">
-                        <strong>Youzhi Hu</strong>
+                        <strong style="color: #59aaa5;">Youzhi Hu</strong>
                     </h1>
                 </div>
+            </div>
 
-                <div class="col-12 col-sm-7">
-                    <ul class="nav justify-content-center float-sm-right">
-                        <li class="nav-item">
-                            <a class="nav-link" href="index.html">About</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="portfolio.html"
-                                >Portfolio</a
-                            >
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="contact.html">Contact</a>
-                        </li>
-                    </ul>
-                </div>
-            </header>
+            <div class="col-12 col-sm-7">
+                <ul
+                    class="navbar-nav float-sm-right d-flex flex-row justify-content-center"
+                >
+                    <li class="nav-item">
+                        <a class="nav-link p-3" href="index.html">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link p-3" href="portfolio.html"
+                            >Portfolio</a
+                        >
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link p-3" href="contact.html">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
 
+        <div class="container">
             <!-- Main Section -->
             <main class="row my-3 mx-3 shadow-lg bg-white rounded">
                 <div class="col-12">
@@ -74,42 +70,43 @@
                             class="img-fluid float-sm-left mr-3"
                         />
                     </div>
-                    <p style="text-align: justify;">
-                        Since the age of sixteen, Youzhi Hu has been an avid
-                        programmer. He first started by modding TES games in
-                        Creation Kit that would allow him to grasp basic
-                        understanding of how computer application works, and his
+                    <p>
+                        Since the age of sixteen, I have been an avid
+                        programmer. I first started by modding TES games in
+                        Creation Kit that would allow me to grasp basic
+                        understanding of how computer application works, and my
                         love of the potential applications of programming has
                         been growing ever since.
                     </p>
-                    <p style="text-align: justify;">
-                        The first programming language he started to use was
-                        Python. Although he attended the University of Sydney,
-                        where he majored in social science but realized that
-                        Python may come in handy when it comes to data analysis.
-                        Big Data and data mining was hot at that time, so he
-                        decided to pursue a Master's degree in Information
-                        Technology.
+                    <p>
+                        The first programming language I started to use was
+                        Python. Although I attended the University of Sydney,
+                        where I majored in social science but realized that
+                        Python may come in handy for data analysis. I graduated
+                        when Big Data and data mining was booming, so I decided
+                        to pursue a Master's degree in Information Technology.
                     </p>
-                    <p style="text-align: justify;">
-                        After obtaining his Master's degree in IT, Youzhi began
-                        working at HikVision Australia, where he started as a
-                        technical engineer. Afterwards, he decided to become a
-                        web developer and joined the coding bootcamp.
+                    <p>
+                        After obtaining my Master's degree in IT, I began
+                        working at HikVision Australia, where my primary focus
+                        was using data manipulation techniques to increace
+                        effecinecy of workflow. Afterwards, I have joined the
+                        coding bootcamp and learned how to become a good web
+                        developer.
                     </p>
                     <br />
                 </div>
             </main>
-
-            <!-- Sticky Footer -->
-            <footer
-                class="fixed-bottom bg-dark text-white-50"
-                style="height: 60px;"
-            >
-                <div class="container pt-3 text-center">
-                    <small>Copyright &copy; Youzhi Hu</small>
-                </div>
-            </footer>
         </div>
+
+        <!-- Sticky Footer -->
+        <footer
+            class="fixed-bottom bg-dark text-white-50"
+            style="height: 60px;"
+        >
+            <div class="container pt-3 text-center">
+                <small>Copyright &copy; Youzhi Hu</small>
+            </div>
+        </footer>
     </body>
 </html>

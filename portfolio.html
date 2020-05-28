@@ -15,45 +15,42 @@
                 font-family: serif;
                 background-color: #e8e8e8;
             }
-            header {
-                background-color: #59aaa5;
-                color: #fefffe;
-            }
-            a {
-                color: #fefffe;
-            }
             h5 {
-                background-color: #59aaa5;"
+                background-color: #59aaa5;
             }
         </style>
     </head>
     <body>
-        <div class="container">
-            <!-- Navigation Bar-->
-            <header class="row">
-                <div class="col-12 col-sm-4">
+        <!-- Nav Bar -->
+        <nav class="navbar navbar-light bg-light">
+            <div class="col-12 col-sm-5">
+                <div class="d-flex justify-content-center">
                     <h1 class="text-center float-sm-left">
-                        <strong>Youzhi Hu</strong>
+                        <strong style="color: #59aaa5;">Youzhi Hu</strong>
                     </h1>
                 </div>
+            </div>
 
-                <div class="col-12 col-sm-8">
-                    <ul class="nav justify-content-center float-sm-right">
-                        <li class="nav-item">
-                            <a class="nav-link" href="index.html">About</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="portfolio.html"
-                                >Portfolio</a
-                            >
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="contact.html">Contact</a>
-                        </li>
-                    </ul>
-                </div>
-            </header>
+            <div class="col-12 col-sm-7">
+                <ul
+                    class="navbar-nav float-sm-right d-flex flex-row justify-content-center"
+                >
+                    <li class="nav-item">
+                        <a class="nav-link p-3" href="index.html">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link p-3" href="portfolio.html"
+                            >Portfolio</a
+                        >
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link p-3" href="contact.html">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
 
+        <div class="container">
             <!-- Main Section -->
             <main class="row my-3 mx-3 shadow-lg bg-white rounded">
                 <div class="col-12">
@@ -103,16 +100,16 @@
                     </section>
                 </div>
             </main>
-
-            <!-- Sticky Footer -->
-            <footer
-                class="fixed-bottom bg-dark text-white-50"
-                style="height: 60px;"
-            >
-                <div class="container pt-3 text-center">
-                    <small>Copyright &copy; Youzhi Hu</small>
-                </div>
-            </footer>
         </div>
+
+        <!-- Sticky Footer -->
+        <footer
+            class="fixed-bottom bg-dark text-white-50"
+            style="height: 60px;"
+        >
+            <div class="container pt-3 text-center">
+                <small>Copyright &copy; Youzhi Hu</small>
+            </div>
+        </footer>
     </body>
 </html>

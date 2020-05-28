@@ -1,8 +1,10 @@
 # 02-Responsive-Portfolio
 
-The objective of this project is to familiarize myself with Bootstrap 4 and responsive design.
+### Description
 
-In doing so, I need to create `index.html`, `portfolio.html` and `contact.html` and develop my portfolio site with the following items:
+This repository (02-Responsive-Portfolio) is my personal portfolio by utilising the advantages of Bootstrap 4. The objective of this responsive portfolio is to create a mobile-first application and to render it well on a variety of devices and window or screen sizes.
+
+In doing so, I have created `index.html`, `portfolio.html` and `contact.html` and develop my portfolio site with the following items:
 
 -   A navbar
 
@@ -10,15 +12,9 @@ In doing so, I need to create `index.html`, `portfolio.html` and `contact.html` 
 
 -   Responsive images
 
-Furthermore, the Bootstrap portfolio should minimize the use of media queries.
+### Features
 
-### Minimum Requirements
-
-Here are the minimum requirements:
-
--   Functional, deployed application
-
--   GitHub repository with README describing the project
+-   On an `xs` screen, content should take up the entire screen. On `sm` and larger screens, you should have some margins on the left and right sides of the screen.
 
 -   Navbar must be consistent on each page.
 
@@ -28,20 +24,10 @@ Here are the minimum requirements:
 
 -   Must use semantic html.
 
--   Each page must have valid and correct HTML. (use a validation service)
+-   Furthermore, the Bootstrap portfolio should minimize the use of media queries.
 
--   Must contain your personalized information. (bio, name, images, links to social media, etc.)
+#### Improvements
 
--   Must properly utilize Bootstrap components and grid system.
+-   Navbar could be further improved with collapse button.
 
-### Bonus
-
-The bonus part is to make a `sticky footer` and use `sub-rows` and `sub-column` on my portfolio site.
-
-## Submission on BCS
-
-I am required to submit the following:
-
--   The URLs of the deployed applications
-
--   The URLs of the GitHub repositories
+-   Image could be more fluid when changing screen sizes.
