@@ -9,11 +9,11 @@ In doing so, I have created `index.html`, `portfolio.html` and `contact.html` an
 -   A navbar
 
 -   A responsive layout
-    ![Responsive Layout demo](./Assets/sample/640-contact.jpg)
-    ![Responsive Layout demo](./Assets/sample/980-contact.jpg)
+    ![Responsive Layout demo](Assets/sample/640-contact.jpg)
+    ![Responsive Layout demo](Assets/sample/980-contact.jpg)
 -   Responsive images
-    ![Responsive Layout demo](./Assets/sample/640-portfolio.jpg)
-    ![Responsive Layout demo](./Assets/sample/980-portfolio.jpg)
+    ![Responsive Layout demo](Assets/sample/640-portfolio.jpg)
+    ![Responsive Layout demo](Assets/sample/980-portfolio.jpg)
 
 ### Features
 
