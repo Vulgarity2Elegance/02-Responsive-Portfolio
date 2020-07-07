@@ -9,20 +9,6 @@ In doing so, I have created `index.html`, `portfolio.html` and `contact.html` an
 -  A responsive layout
 -  Responsive images
 
-<<<<<<< HEAD
--   A navbar
--   A responsive layout
--   Responsive images
-=======
-![Responsive Layout demo](Assests/sample/640-contact.jpg)
-    
-![Responsive Layout demo](Assests/sample/980-contact.jpg)
-
-![Responsive Layout demo](Assests/sample/640-portfolio.jpg)
-    
-![Responsive Layout demo](Assests/sample/980-portfolio.jpg)
->>>>>>> 6ab335a38bb46e9a94ae83af8af3d633f7eae750
-
 ### Features
 
 -   On an `xs` screen, content should take up the entire screen. On `sm` and larger screens, you should have some margins on the left and right sides of the screen.
