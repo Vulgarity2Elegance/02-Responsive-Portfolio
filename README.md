@@ -5,10 +5,23 @@
 This repository (02-Responsive-Portfolio) is my personal portfolio by utilising the advantages of Bootstrap 4. The objective of this responsive portfolio is to create a mobile-first application and to render it well on a variety of devices and window or screen sizes.
 
 In doing so, I have created `index.html`, `portfolio.html` and `contact.html` and develop my portfolio site with the following items:
+-  A navbar
+-  A responsive layout
+-  Responsive images
 
+<<<<<<< HEAD
 -   A navbar
 -   A responsive layout
 -   Responsive images
+=======
+![Responsive Layout demo](Assests/sample/640-contact.jpg)
+    
+![Responsive Layout demo](Assests/sample/980-contact.jpg)
+
+![Responsive Layout demo](Assests/sample/640-portfolio.jpg)
+    
+![Responsive Layout demo](Assests/sample/980-portfolio.jpg)
+>>>>>>> 6ab335a38bb46e9a94ae83af8af3d633f7eae750
 
 ### Features
 
