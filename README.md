@@ -7,13 +7,8 @@ This repository (02-Responsive-Portfolio) is my personal portfolio by utilising 
 In doing so, I have created `index.html`, `portfolio.html` and `contact.html` and develop my portfolio site with the following items:
 
 -   A navbar
-
 -   A responsive layout
-    ![Responsive Layout demo](Assests/sample/640-contact.jpg)
-    ![Responsive Layout demo](Assests/sample/980-contact.jpg)
 -   Responsive images
-    ![Responsive Layout demo](Assests/sample/640-portfolio.jpg)
-    ![Responsive Layout demo](Assests/sample/980-portfolio.jpg)
 
 ### Features
 
