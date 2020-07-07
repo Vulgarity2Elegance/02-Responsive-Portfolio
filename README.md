@@ -6,10 +6,6 @@ This repository (02-Responsive-Portfolio) is my personal portfolio by utilising 
 
 In doing so, I have created `index.html`, `portfolio.html` and `contact.html` and develop my portfolio site with the following items:
 
--   A navbar
--   A responsive layout
--   Responsive images
-
 ### Features
 
 -   On an `xs` screen, content should take up the entire screen. On `sm` and larger screens, you should have some margins on the left and right sides of the screen.
