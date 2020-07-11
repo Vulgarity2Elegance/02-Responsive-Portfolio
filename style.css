@@ -1,0 +1,21 @@
+body {
+    font-family: "Roboto Slab", serif;
+    background-color: #e8e8e8;
+    background-image: url("https://cutewallpaper.org/21/sky-blue-background-image/Light-Blue-Backgrounds-Wallpaper-Cave.png");
+}
+
+.bg-white {
+    background-color: #3b5998 !important;
+}
+
+h1,
+h3,
+b,
+small {
+    color: white;
+}
+
+h2,
+p {
+    color: black;
+}
